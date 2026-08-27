@@ -1,4 +1,4 @@
-# Advanced CRUD
+# Spring Boot Resilient API
 
 **English** | [Português](README.pt-BR.md)
 
